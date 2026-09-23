@@ -8,3 +8,5 @@ Thumbs.db
 
 # Postman workspace local data (optional, but good to ignore temporary test state)
 .postman/
+
+.screenshots/
